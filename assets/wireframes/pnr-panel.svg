@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+  <rect width="100%" height="100%" fill="#fff" stroke="#eee"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#111">PNR Panel — In-app overlay</text>
+  <rect x="20" y="50" width="560" height="120" fill="#f4f6f8" stroke="#dbe6ee"/>
+  <text x="30" y="90" font-family="Arial" font-size="13" fill="#333">Enter PNR: [______]  [Check]</text>
+  <text x="30" y="130" font-family="Arial" font-size="12" fill="#555">Result: Passenger list / Chart</text>
+</svg>

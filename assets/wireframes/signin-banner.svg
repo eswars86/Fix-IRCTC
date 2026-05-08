@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+  <rect width="100%" height="100%" fill="#fff" stroke="#eee"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#111">Sign-in Banner (non-blocking)</text>
+  <rect x="20" y="45" width="660" height="48" fill="#fff8e1" stroke="#ffe08a"/>
+  <text x="30" y="75" font-family="Arial" font-size="13" fill="#333">Sign in for faster booking — [Sign in] [No thanks]</text>
+</svg>

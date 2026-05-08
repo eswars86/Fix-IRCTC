@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="350">
+  <rect width="100%" height="100%" fill="#fff" stroke="#eee"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#111">Seat Selection — Selected Berth Review</text>
+  <rect x="20" y="50" width="560" height="220" fill="#f8fafb" stroke="#e0e6ea"/>
+  <text x="30" y="90" font-family="Arial" font-size="14" fill="#333">Selected berth: Lower, Coach B2, Berth 12</text>
+  <text x="30" y="140" font-family="Arial" font-size="12" fill="#555">[Edit]   [Proceed to Payment]</text>
+</svg>
