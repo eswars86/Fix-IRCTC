@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <rect width="100%" height="100%" fill="#fff" stroke="#eee"/>
+  <text x="20" y="30" font-family="Arial" font-size="16" fill="#111">Search Filters — Desktop</text>
+  <rect x="20" y="50" width="740" height="36" fill="#f7f9fb" stroke="#dfe6ee"/>
+  <text x="30" y="75" font-family="Arial" font-size="13" fill="#333">Filter chips: [SL] [Only Available] [Morning] [Apply]</text>
+  <text x="30" y="120" font-family="Arial" font-size="13" fill="#555">Results: 12 trains — "Filters applied" toast</text>
+</svg>
